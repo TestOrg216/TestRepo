@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "7a6b29fe_21da8978",
+        "filename": "meh.csv",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1002824
+      },
+      "writtenOn": "2014-11-05T00:15:26Z",
+      "side": 1,
+      "message": "why teh poop",
+      "revId": "3da311ce916ae77e555361bf4844d868351a7d12",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a6b29fe_81e71d40",
         "filename": "meh.csv",
         "patchSetId": 1
